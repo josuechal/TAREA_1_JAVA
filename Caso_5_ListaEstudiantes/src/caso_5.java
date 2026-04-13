@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class caso_5{
+public class caso_5 {
     public static void main(String[] args) {
         
         ArrayList<String> estudiantes = new ArrayList<>();
@@ -29,4 +29,4 @@ public class caso_5{
             }
         }
         }
-    }
+}
